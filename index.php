@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php
 <html>
   <h1>"Welcome to Tuliza Glamorous Events! "</h1>
