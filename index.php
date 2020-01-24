@@ -1,5 +1,7 @@
+<?php
 <html>
 <h1>
 Welcome to GitHub Pages
 </h1>
 </html>
+?>
