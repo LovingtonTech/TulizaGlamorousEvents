@@ -1,3 +1,3 @@
-<html>
-  <h1>hello github</h1>
-</html>
+<?php
+echo "hello github";
+?>
