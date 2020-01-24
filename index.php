@@ -1,4 +1,3 @@
-<!DOCTYPE html>
-<?php
-echo "hello";
-?>
+<html>
+  hello github
+</html>
